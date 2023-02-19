@@ -24,7 +24,7 @@ To run this application on your local machine, you will need to have Python 3.x,
 
 ## Credits
 
-This project was created by [Your Name Here] by following a tutorial from the JustDjango YouTube channel.
+This project was created by following a tutorial from the JustDjango YouTube channel.
 
 Some of the code and design elements are based on the tutorial, but modifications were made to adapt the project to our own needs.
 
